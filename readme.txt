@@ -8,6 +8,7 @@ git log --pretty=oneline
 git reset --hard HEAD^
 git checkout -- (filename)
 git reset HAED (filename)
+git rm (filename)
 
 
 
