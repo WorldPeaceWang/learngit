@@ -6,3 +6,7 @@ git commit -m "xxx"
 git log
 git log --pretty=oneline
 git reset --hard HEAD^
+
+1.工作区：本地电脑目录
+2.版本库：。git，包括暂存区，分支和HEAD指针
+3.暂存区：stage，git add就是进入此处。    git commit 是进入分支
