@@ -6,6 +6,9 @@ git commit -m "xxx"
 git log
 git log --pretty=oneline
 git reset --hard HEAD^
+git checkout -- (filename)
+git reset HAED (filename)
+
 
 
 1.工作区：本地电脑目录
